@@ -14,7 +14,7 @@ public class ArrayMinElement {
             arr[i] =sc.nextInt();
             System.out.println(arr[i]);
         }
-        // find maximum  num 
+        // find minimum num 
         int min =arr[0];
         for(int i=0;i<n;i++){
             if(arr[i]<min)
