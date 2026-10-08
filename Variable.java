@@ -23,8 +23,6 @@ public class Variable {
         //  int $marks = 10;
         //  int MARKS = 10;
         //  int _marks = 10;
-
-         
          
     }
 }
